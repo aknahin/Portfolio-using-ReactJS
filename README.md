@@ -1,3 +1,38 @@
+
+# Developer Portfolio Template in ReactJS
+
+This is a developer portfolio template built using ReactJS and designed with a minimalistic style. The template is easy to use and customize, making it perfect for developers who want to showcase their work in a professional and attractive way.
+
+## Features
+
+-   Single-page design with smooth scrolling
+-   Hero section with customizable background image and text
+-   About section to introduce yourself and your skills
+-   Portfolio section to showcase your projects with customizable boxes
+-   Contact section with email, phone and links to your social media profiles
+-   Navigation bar to easily navigate between sections
+
+## How to Use
+
+1.  Clone the repository
+2.  Install dependencies using `npm install`
+3.  Update the content and images in the components
+4.  Customize the styling with your own CSS or the provided stylesheets
+
+## Promotion
+
+This template is perfect for developers who want to showcase their work in a professional and attractive way. It is designed to be easy to use and customize, so you can create a unique portfolio that stands out from the crowd.
+
+To see this template in action, check out this website:. If you need any web development services, feel free to contact me at [nahin@aknahin.com](mailto:nahin@aknahin.com).
+
+## Credits
+
+This template was built using [ReactJS](https://reactjs.org/) and designed with [ChatGPT](https://openai.com/blog/chat-with-gpt-3/) language model.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
