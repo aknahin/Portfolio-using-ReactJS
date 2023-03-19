@@ -1,0 +1,35 @@
+.contact {
+    margin: 50px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .contact-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-icons a {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .contact-icons a:hover {
+    color: #0077b5;
+  }
+  
+  .contact-icons a svg {
+    margin-right: 10px;
+  }
+  
